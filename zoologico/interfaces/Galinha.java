@@ -4,6 +4,6 @@ public class Galinha implements Animal, Voador {
 
     @Override
     public void movimentar() {
-        System.out.println("Voo da Galinha");
+        System.out.println("Galinha Ciscando");
     }
 }
